@@ -8,4 +8,4 @@ $persons = [
     new Person("Marc", "Hartleib", 32),
     new Person("Emad", "Easa", 29),
     new Person("Guillermo", "Herrero", 28)
-]
+];
